@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "ioredis": "^4.28.3",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
